@@ -1,4 +1,4 @@
-# Starting React Natative app
+# Setup React Natative app
 
 SETUP ENVIRONMENT
 1. install nodist

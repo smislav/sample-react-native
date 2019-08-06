@@ -5,23 +5,23 @@ SETUP ENVIRONMENT
 2. install node.js and npm
 3. install visual studio code
 4. install react native tools plugin
-4. install chrome debugged plugin
+5. install chrome debugged plugin
 
 SETUP PROJECT
-3. react-native init <Project name>
-4. react-native run-android
-5. setup sdk dir in local.properties
+1. react-native init <Project name>
+2. react-native run-android
+3. setup sdk dir in local.properties
    sdk.dir=C\:\\Users\\Mislav\\AppData\\Local\\Android\\Sdk
-6. react-native run-android
+4. react-native run-android
 
 SETUP PROJEC STRUCTURE
 1. add scr folder
 2. add package.json annotaion
-7. add screens folder
-2. add package.json annotaion
-8. add views folder
-2. add package.json annotaion
-3. move App.js to src
+3. add screens folder
+4. add package.json annotaion
+5. add views folder
+6. add package.json annotaion
+7. move App.js to src
 
 SETUP MAIN STYLE
 1. add styles.js into src
